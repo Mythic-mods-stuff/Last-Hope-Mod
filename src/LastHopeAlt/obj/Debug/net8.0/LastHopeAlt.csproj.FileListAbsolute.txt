@@ -1,0 +1,12 @@
+/home/user/Projects/TheLastHopeAlt/src/LastHopeAlt/bin/Debug/net8.0/LastHopeAlt.deps.json
+/home/user/Projects/TheLastHopeAlt/src/LastHopeAlt/bin/Debug/net8.0/LastHopeAlt.dll
+/home/user/Projects/TheLastHopeAlt/src/LastHopeAlt/bin/Debug/net8.0/LastHopeAlt.pdb
+/home/user/Projects/TheLastHopeAlt/src/LastHopeAlt/obj/Debug/net8.0/LastHopeAlt.csproj.AssemblyReference.cache
+/home/user/Projects/TheLastHopeAlt/src/LastHopeAlt/obj/Debug/net8.0/LastHopeAlt.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Projects/TheLastHopeAlt/src/LastHopeAlt/obj/Debug/net8.0/LastHopeAlt.AssemblyInfoInputs.cache
+/home/user/Projects/TheLastHopeAlt/src/LastHopeAlt/obj/Debug/net8.0/LastHopeAlt.AssemblyInfo.cs
+/home/user/Projects/TheLastHopeAlt/src/LastHopeAlt/obj/Debug/net8.0/LastHopeAlt.csproj.CoreCompileInputs.cache
+/home/user/Projects/TheLastHopeAlt/src/LastHopeAlt/obj/Debug/net8.0/LastHopeAlt.dll
+/home/user/Projects/TheLastHopeAlt/src/LastHopeAlt/obj/Debug/net8.0/refint/LastHopeAlt.dll
+/home/user/Projects/TheLastHopeAlt/src/LastHopeAlt/obj/Debug/net8.0/LastHopeAlt.pdb
+/home/user/Projects/TheLastHopeAlt/src/LastHopeAlt/obj/Debug/net8.0/ref/LastHopeAlt.dll

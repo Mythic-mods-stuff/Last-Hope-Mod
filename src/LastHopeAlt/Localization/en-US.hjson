@@ -1,0 +1,95 @@
+Mods: {
+	LastHopeAlt: {
+		Items: {
+			TheLastHope: {
+				DisplayName: The Last Hope Alt
+				Tooltip:
+					'''
+					Once raised against an ancient deity, this relic carried the defiance of a dying world.
+					Though the god shattered it and scattered its fragments across the ages, its final spark refused to fade.
+					Now reforged, it remembers every strength that stood against oblivion.
+					It holds the strength of every accessory, and the freedom of the skies.
+					'''
+			}
+		}
+
+		Keybinds: {
+			RelicAbility.DisplayName: Relic active ability
+			OpenForge.DisplayName: Open the Last Hope forge
+		}
+
+		Configs: {
+			HopeConfig: {
+				DisplayName: The Last Hope Alt — stats and flight
+
+                EnableFlight: {
+                    Label: Enable ordinary flight
+                    Tooltip: Uses the combined flight duration with ordinary vanilla wing controls.
+                }
+
+				Wings: {
+					Label: Wing movement
+					Tooltip: ""
+				}
+
+				Dash: {
+					Label: Dash
+					Tooltip: ""
+				}
+
+				Transformation: {
+					Label: Transformation
+					Tooltip: ""
+				}
+
+				ActiveAbility: {
+					Label: Activated accessory ability
+					Tooltip: ""
+				}
+
+				Music: {
+					Label: Music box
+					Tooltip: ""
+				}
+
+				DisabledEffects: {
+					Label: Disabled accessory effects
+					Tooltip: Disables all effects of these accessories. Does not remove crafting requirements.
+				}
+			}
+
+			AbilityChoice: {
+				Mode: {
+					Label: Selection mode
+					Tooltip: Automatic chooses the strongest eligible accessory. Manual uses the item below. Disabled turns this ability category off.
+				}
+
+				Accessory: {
+					Label: Manual accessory
+					Tooltip: Choose an eligible accessory for this category. Invalid manual choices fall back to Automatic.
+				}
+
+				Tooltip: ""
+			}
+
+			SelectionMode: {
+				Tooltip: ""
+
+				Automatic: {
+					Label: Automatic
+					Tooltip: ""
+				}
+
+				Manual: {
+					Label: Manual
+					Tooltip: ""
+				}
+
+				Disabled: {
+					Label: Disabled
+					Tooltip: ""
+				}
+			}
+		}
+	}
+}

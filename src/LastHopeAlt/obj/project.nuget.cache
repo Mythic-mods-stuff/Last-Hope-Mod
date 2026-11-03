@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X7F7dA0QKeazUN/kmKZO2tz/XHw4ys4+MAYuM5iFUMSWbKgHHsJcCLx/S9UQ2DBs/CQ1PK1ADuBbzebaNLO85g==",
+  "success": true,
+  "projectFilePath": "/home/user/Projects/TheLastHopeAlt/src/LastHopeAlt/LastHopeAlt.csproj",
+  "expectedPackageFiles": [
+    "/home/user/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.30/microsoft.aspnetcore.app.ref.8.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}

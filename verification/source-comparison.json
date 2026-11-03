@@ -1,0 +1,133 @@
+{
+  "Original": "/home/user/Projects/TheLastHope/src/LastHope",
+  "Alternate": "/home/user/Projects/TheLastHopeAlt/src/LastHopeAlt",
+  "Files": [
+    {
+      "File": ".gitignore",
+      "Status": "copied unchanged",
+      "OriginalSHA256": "01c781a645101ca29e494046ca28ce8acfbd7b682649df3ed9400d0e25ff6876",
+      "AltSHA256": "01c781a645101ca29e494046ca28ce8acfbd7b682649df3ed9400d0e25ff6876"
+    },
+    {
+      "File": "Common/AccessoryCatalog.cs",
+      "Status": "logic copied unchanged; namespace renamed for independent mod identity",
+      "OriginalSHA256": "d90aad31f3f0704c844ca16e4ea3afa51186334cfc425e3801865b8e77e1fcbf",
+      "AltSHA256": "d110f39447308f5926663171d9fbc7f40e17c9748423a3ee5330d43ba1ca3cef"
+    },
+    {
+      "File": "Common/CalamityBridge.cs",
+      "Status": "changed for alternate behavior or identity",
+      "OriginalSHA256": "4e225db7d5560e2c44b4aac587c1b62467ac67ee15bc1309c86d89aef220b105",
+      "AltSHA256": "33d1a1092a35883c49d1cce18986051e3eb8396b361e32e18c7334abc23517a1"
+    },
+    {
+      "File": "Common/CalamityDeferredStats.cs",
+      "Status": "logic copied unchanged; namespace renamed for independent mod identity",
+      "OriginalSHA256": "34d58df12fe5531c17d59f4664e15177f529ded10dcefe2d1a89050eb99286aa",
+      "AltSHA256": "950954b341855d46a0363d371b850b3346a7d390d06e186fa3c117e09b375e1c"
+    },
+    {
+      "File": "Common/ForgeService.cs",
+      "Status": "changed for alternate behavior or identity",
+      "OriginalSHA256": "f017fdc8951c124bc2bc3c1aa9506396a358bcc35c40f7a19bdb1032060de7df",
+      "AltSHA256": "d5503f2b79f7b47e3ec02d60f08dc9d36709db5892a2881795825874d3dbfc49"
+    },
+    {
+      "File": "Common/HopeCommand.cs",
+      "Status": "changed for alternate behavior or identity",
+      "OriginalSHA256": "638c7ded77d414347c4433788429dda405b006e803598126d4c4c1471afa3572",
+      "AltSHA256": "2b9eee78bbc8253367b95286b12830d08e928533a9fb1788211242e9d0e4c079"
+    },
+    {
+      "File": "Common/HopeConfig.cs",
+      "Status": "changed for alternate behavior or identity",
+      "OriginalSHA256": "d15ff376e0c39c6e473685f9a193a4feb0696dde61b7f4d6ce90fc8e2fa2e9a5",
+      "AltSHA256": "9ef62f15e313a2f1c242894b217184c11efb6997e359d76632700d038d8b6ed1"
+    },
+    {
+      "File": "Common/HopePlayer.cs",
+      "Status": "changed for alternate behavior or identity",
+      "OriginalSHA256": "33dcdca5c7c1013edfa037c0ca404dca56b68a122bcbdbd13543d916cdaf7ab3",
+      "AltSHA256": "e7ba9fda3ca380814b35a382e947b9b6304d1f7d533850f5e2458b38d48129d8"
+    },
+    {
+      "File": "Common/IntegrationChecks.cs",
+      "Status": "changed for alternate behavior or identity",
+      "OriginalSHA256": "57fbd1a512d5f16a4069770c0ba4ce011d35451ccb86557c4362ad417f870945",
+      "AltSHA256": "0e0a592e8189b79f3a79e40061c50878ae744d26ffbefc29339d6b8461b521b3"
+    },
+    {
+      "File": "Common/StatAccumulator.cs",
+      "Status": "logic copied unchanged; namespace renamed for independent mod identity",
+      "OriginalSHA256": "813231daf22c44cb280e6d997f2e867ddf9e5dd86c61f474b687191ee08758c5",
+      "AltSHA256": "b102ec2b8d46051ff2b71b7ba880d9e8887050a17a8457545328ac7d368b7b29"
+    },
+    {
+      "File": "Common/WorkbenchInteraction.cs",
+      "Status": "logic copied unchanged; namespace renamed for independent mod identity",
+      "OriginalSHA256": "1f5805875518a9e48f418fa4d56a7db8da46771ca3841463d02eb809dbd51262",
+      "AltSHA256": "b38ab36745b377171b5d782d48191c663033356d86e3b23d78953955fd157f93"
+    },
+    {
+      "File": "Content/Items/TheLastHope.cs",
+      "Status": "changed for alternate behavior or identity",
+      "OriginalSHA256": "4bc20411d271a5a51e015fa78d2e8200090ec38aff6f7dfdf24539d06556b487",
+      "AltSHA256": "7348806d4ec347ec6927e867acd088150c47894e4cd5043c3577fd7f3c1f5f4c"
+    },
+    {
+      "File": "GlobalUsings.cs",
+      "Status": "copied unchanged",
+      "OriginalSHA256": "22a52959c47b4e0bc8c5014e5ee50f48849d1c58ec407303116d43186abf4d3c",
+      "AltSHA256": "22a52959c47b4e0bc8c5014e5ee50f48849d1c58ec407303116d43186abf4d3c"
+    },
+    {
+      "File": "LastHope.cs",
+      "Status": "changed for alternate behavior or identity",
+      "OriginalSHA256": "98fa1ac1699c41b6895efbd3cd45936e52977a30d8b0839d142854cb7ac8adb2",
+      "AltSHA256": "fc970bca4231f3a2f583e24f02835405c73dda7b47ee219309557026aa4f908b"
+    },
+    {
+      "File": "LastHope.csproj",
+      "Status": "changed for alternate behavior or identity",
+      "OriginalSHA256": "1f7d53b5a13a79a495f153efd7a3aa6ebdf12839afa2feb50a1c23e3ed4caabf",
+      "AltSHA256": "89480c65f3c9023be1abe0c83de483486143ac5f77829838da0eb3f937e8726e"
+    },
+    {
+      "File": "Localization/en-US.hjson",
+      "Status": "changed for alternate behavior or identity",
+      "OriginalSHA256": "c0cfacac6d2c45e9cdf1cefdefeff796e759a60e9d101f9def6aff99e9e51535",
+      "AltSHA256": "a93c2aa7ca536496aca863a3f177a3e872d88866c3716d4ef2100f506b88e144"
+    },
+    {
+      "File": "README.md",
+      "Status": "changed for alternate behavior or identity",
+      "OriginalSHA256": "6772b54e9df9cf6133d314a53383ccaff713816aa932140c386938fffabc7f53",
+      "AltSHA256": "51c3000049d27341f109fbba3d05c750f823c2f4554bb87decf6437b1d80d6e7"
+    },
+    {
+      "File": "UI/ForgeUI.cs",
+      "Status": "changed for alternate behavior or identity",
+      "OriginalSHA256": "5e122bff5eebb431652d2c53126d6de3a15ca8ba4fe8afaa229dd4fdce241934",
+      "AltSHA256": "7110384b2f0d6377d2639c7338c4aefa64fe8d3207b7b042ec7388388d86b531"
+    },
+    {
+      "File": "build.txt",
+      "Status": "changed for alternate behavior or identity",
+      "OriginalSHA256": "20ed37381802eb497ca07120e0c5b74c6ae6652e3478d67535eb403a9e1a9999",
+      "AltSHA256": "ed51cdd6c933e854ab0017907c0f944a71af2ffe9a06660fd27d4804991bb41d"
+    },
+    {
+      "File": "description.txt",
+      "Status": "changed for alternate behavior or identity",
+      "OriginalSHA256": "90eccb97e74309cb03a25fa76e806eacc9398f3efd89c57c80cd83b133d5ba1b",
+      "AltSHA256": "d67d999b91aab11bd971e2a1f7ba36ce3c13576938f5f0fb192a1cbbcce2de0e"
+    }
+  ],
+  "Added": [
+    "Common/AltChecks.cs",
+    "Common/NumericStats.cs",
+    "Common/ProfileExporter.cs",
+    "Common/StatTooltip.cs",
+    "Data/accessory-stats.json"
+  ]
+}

@@ -1,0 +1,5 @@
+displayName = The Last Hope Alt
+author = Local Developer
+version = 0.1.0
+modReferences = CalamityMod
+buildIgnore = bin/*, obj/*, *.csproj, *.user, README.md

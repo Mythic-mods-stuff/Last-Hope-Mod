@@ -1,0 +1,207 @@
+[15:55:05.171] [Main Thread/INFO] [tML]: Starting tModLoader server 1.4.4.9+2026.08.3.0|2026.08|stable|Stable|c9545cf27d56c456321e1896274c02adf67d0140|5250950117352386884 built 10/01/2026 02:04
+[15:55:05.195] [Main Thread/INFO] [tML]: Log date: 10/18/2026
+[15:55:05.196] [Main Thread/INFO] [tML]: Running on Linux (v7.2.5.3) X64 NetCore 8.0.30
+[15:55:05.214] [Main Thread/INFO] [tML]: CPU: 4 processors. RAM: 7.6 GB
+[15:55:05.215] [Main Thread/INFO] [tML]: FrameworkDescription: .NET 8.0.30
+[15:55:05.215] [Main Thread/INFO] [tML]: Executable: /home/user/.local/share/Steam/steamapps/common/tModLoader/tModLoader.dll
+[15:55:05.215] [Main Thread/INFO] [tML]: Working Directory: /home/user/.local/share/Steam/steamapps/common/tModLoader
+[15:55:05.216] [Main Thread/INFO] [tML]: Launch Parameters: -server -nosteam -tmlsavedirectory /tmp/last-hope-alt-check.IBg3wr -modpath /tmp/last-hope-alt-check.IBg3wr/Mods
+[15:55:05.228] [Main Thread/INFO] [tML]: Parsed Launch Parameters: -server -nosteam -tmlsavedirectory /tmp/last-hope-alt-check.IBg3wr -modpath /tmp/last-hope-alt-check.IBg3wr/Mods
+[15:55:06.495] [Main Thread/INFO] [tML]: Saves Are Located At: /tmp/last-hope-alt-check.IBg3wr
+[15:55:08.169] [Main Thread/INFO] [tML]: Distribution Platform: Steam. Detection method: CWD is /steamapps/
+[15:55:08.519] [Main Thread/INFO] [tML]: Current 1281930 Workshop Folder Directory: steamapps/workshop
+[15:55:16.544] [Main Thread/DEBUG] [tML]: Network compatibility version is 2026.8.3
+[15:55:21.226] [Main Thread/INFO] [tML]: Finding Mods...
+[15:55:21.387] [Main Thread/DEBUG] [tML]: Selected CalamityMod 2.2.2 for tML 2026.6.3.4 from Local.
+[15:55:21.388] [Main Thread/DEBUG] [tML]: Selected CalamityModMusic 2.1 for tML 2025.12.3.0 from Local.
+[15:55:21.388] [Main Thread/DEBUG] [tML]: Selected LastHopeAlt 0.1.0 for tML 2026.8.3.0 from Local.
+[15:55:21.424] [Main Thread/INFO] [tML]: Finding Mods...
+[15:55:22.427] [Main Thread/INFO] [tML]: Sandboxing: CalamityModMusic (Calamity Mod Music) v2.1
+[15:55:22.493] [Main Thread/DEBUG] [tML]: Hook System.Runtime.Loader.AssemblyLoadContext::ValidateAssemblyNameWithSimpleName(Assembly, string) added by tModLoader
+[15:55:22.780] [Main Thread/INFO] [tML]: Sandboxing: CalamityMod (Calamity Mod) v2.2.2
+[15:55:27.362] [Main Thread/INFO] [tML]: Sandboxing: LastHopeAlt (The Last Hope Alt) v0.1.0
+[15:55:27.415] [Main Thread/INFO] [tML]: Constructing Mods...
+[15:55:27.573] [Main Thread/INFO] [tML]: Adding Content: ModLoader (tModLoader) v2026.8.3.0
+[15:55:28.263] [Main Thread/INFO] [tML]: Adding Content: CalamityModMusic (Calamity Mod Music) v2.1
+[15:55:28.446] [Main Thread/INFO] [tML]: Adding Content: CalamityMod (Calamity Mod) v2.2.2
+[15:55:30.896] [Main Thread/DEBUG] [tML]: ILHook Terraria.Main::DrawBlack(bool) added by CalamityMod
+[15:55:30.914] [Main Thread/DEBUG] [tML]: Hook Terraria.Main::DrawBlack(bool) added by CalamityMod
+[15:55:30.958] [Main Thread/DEBUG] [tML]: Hook Terraria.Main::DrawNPC(int, bool) added by CalamityMod
+[15:55:31.324] [Main Thread/DEBUG] [tML]: ILHook Terraria.ModLoader.LocalizationLoader::ExtractLocalizationFiles(string) added by CalamityMod
+[15:55:31.368] [Main Thread/DEBUG] [tML]: Hook Terraria.Graphics.Effects.OverlayManager::Draw(SpriteBatch, RenderLayers, bool) added by CalamityMod
+[15:55:31.494] [Main Thread/DEBUG] [tML]: Hook Terraria.Graphics.Light.LightingEngine::UpdateLightDecay() added by CalamityMod
+[15:55:31.699] [Main Thread/DEBUG] [tML]: Hook Terraria.UI.ItemSlot::OverrideLeftClick(Item[], int, int) added by CalamityMod
+[15:55:31.797] [Main Thread/DEBUG] [tML]: Hook Terraria.DataStructures.PlayerDrawLayers::DrawPlayer_03_PortableStool(ref PlayerDrawSet) added by CalamityMod
+[15:55:31.977] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::ProcessHitAgainstNPC(Item, Rectangle, int, float, int) added by CalamityMod
+[15:55:32.237] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::QuickGrapple() added by CalamityMod
+[15:55:32.349] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::QuickMount() added by CalamityMod
+[15:55:32.491] [Main Thread/DEBUG] [tML]: Hook Terraria.Main::DrawPendingMouseText() added by CalamityMod
+[15:55:32.574] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::dropItemCheck() added by CalamityMod
+[15:55:32.706] [Main Thread/DEBUG] [tML]: Hook Terraria.UI.ItemSlot::LeftClick(Item[], int, int) added by CalamityMod
+[15:55:32.967] [Main Thread/DEBUG] [tML]: Hook Terraria.UI.ItemSlot::Draw(SpriteBatch, Item[], int, int, Vector2, Color) added by CalamityMod
+[15:55:33.022] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::ResetVisibleAccessories() added by CalamityMod
+[15:55:33.112] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::UpdateVisibleAccessory(int, Item, bool) added by CalamityMod
+[15:55:33.622] [Main Thread/DEBUG] [tML]: Hook Terraria.DataStructures.PlayerDrawLayers::DrawPlayer_21_Head(ref PlayerDrawSet) added by CalamityMod
+[15:55:33.669] [Main Thread/DEBUG] [tML]: Hook Terraria.DataStructures.PlayerDrawLayers::DrawPlayer_12_Skin(ref PlayerDrawSet) added by CalamityMod
+[15:55:33.792] [Main Thread/DEBUG] [tML]: Hook Terraria.DataStructures.PlayerDrawLayers::DrawPlayer_13_Leggings(ref PlayerDrawSet) added by CalamityMod
+[15:55:33.949] [Main Thread/DEBUG] [tML]: Hook Terraria.DataStructures.PlayerDrawLayers::DrawPlayer_17_Torso(ref PlayerDrawSet) added by CalamityMod
+[15:55:34.136] [Main Thread/DEBUG] [tML]: Hook Terraria.DataStructures.PlayerDrawLayers::DrawPlayer_12_SkinComposite_BackArmShirt(ref PlayerDrawSet) added by CalamityMod
+[15:55:34.236] [Main Thread/DEBUG] [tML]: Hook Terraria.DataStructures.PlayerDrawLayers::DrawPlayer_28_ArmOverItem(ref PlayerDrawSet) added by CalamityMod
+[15:55:34.292] [Main Thread/DEBUG] [tML]: Hook Terraria.Graphics.Renderers.LegacyPlayerRenderer::DrawPlayer(Camera, Player, Vector2, float, Vector2, float, float) added by CalamityMod
+[15:55:34.442] [Main Thread/DEBUG] [tML]: Hook Terraria.Item::CanFillEmptyAmmoSlot() added by CalamityMod
+[15:55:34.790] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::CollectTaxes() added by CalamityMod
+[15:55:36.577] [Main Thread/DEBUG] [tML]: Hook Terraria.GameContent.ShopHelper::ProcessMood(Player, NPC) added by CalamityMod
+[15:55:39.973] [Main Thread/DEBUG] [tML]: Hook Terraria.Main::HoverOverNPCs(Rectangle) added by CalamityMod
+[15:55:40.006] [Main Thread/DEBUG] [tML]: Hook Terraria.Main::DrawInfoAccs_AdjustInfoTextColorsForNPC(NPC, ref Color, ref Color) added by CalamityMod
+[15:55:40.503] [Main Thread/DEBUG] [tML]: Hook Terraria.UI.Chat.ChatManager::DrawColorCodedStringShadow(SpriteBatch, DynamicSpriteFont, TextSnippet[], Vector2, Color, float, Vector2, Vector2, float, float) added by CalamityMod
+[15:55:40.821] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::GrantPrefixBenefits(Item) added by CalamityMod
+[15:55:40.915] [Main Thread/DEBUG] [tML]: ILHook Terraria.Item::Prefix(int) added by CalamityMod
+[15:55:46.450] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::UpdateControlHolds() added by CalamityMod
+[15:55:46.473] [Main Thread/DEBUG] [tML]: Hook Terraria.GameInput.PlayerInput::SetZoom_MouseInWorld() added by CalamityMod
+[15:55:46.729] [Main Thread/DEBUG] [tML]: ILHook Terraria.GameContent.Drawing.WallDrawing::DrawWalls() added by CalamityMod
+[15:55:46.883] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::TryReplantingTree(int, int) added by CalamityMod
+[15:55:48.809] [Main Thread/DEBUG] [tML]: ILHook Terraria.Main::DoDraw(GameTime) added by CalamityMod
+[15:55:48.875] [Main Thread/DEBUG] [tML]: Hook Terraria.Main::DrawCursor(Vector2, bool) added by CalamityMod
+[15:55:48.893] [Main Thread/DEBUG] [tML]: Hook Terraria.Main::SortDrawCacheWorms() added by CalamityMod
+[15:55:49.084] [Main Thread/DEBUG] [tML]: Hook Terraria.GameContent.Drawing.TileDrawing::Draw(bool, bool, bool, int) added by CalamityMod
+[15:55:49.124] [Main Thread/DEBUG] [tML]: Hook Terraria.GameContent.ItemDropRules.CommonCode::ModifyItemDropFromNPC(NPC, int) added by CalamityMod
+[15:55:49.141] [Main Thread/DEBUG] [tML]: Hook Terraria.GameContent.Events.MoonlordDeathDrama::RequestLight(float, Vector2) added by CalamityMod
+[15:55:49.459] [Main Thread/DEBUG] [tML]: ILHook Terraria.GameContent.Drawing.TileDrawing::DrawSingleTile(TileDrawInfo, bool, int, Vector2, Vector2, int, int) added by CalamityMod
+[15:55:50.024] [Main Thread/DEBUG] [tML]: ILHook Terraria.GameContent.Drawing.TileDrawing::DrawTrees() added by CalamityMod
+[15:55:50.342] [Main Thread/DEBUG] [tML]: Hook Terraria.GameContent.Drawing.TileDrawing::DrawBasicTile(Vector2, Vector2, int, int, TileDrawInfo, Rectangle, Vector2) added by CalamityMod
+[15:55:50.498] [Main Thread/DEBUG] [tML]: ILHook Terraria.Main::UpdateTime() added by CalamityMod
+[15:55:50.634] [Main Thread/DEBUG] [tML]: Hook Terraria.Main::UpdateTime_SpawnTownNPCs() added by CalamityMod
+[15:55:50.769] [Main Thread/DEBUG] [tML]: ILHook Terraria.NPC::DoDeathEvents(Player) added by CalamityMod
+[15:55:50.801] [Main Thread/DEBUG] [tML]: Hook Terraria.NPC::NPCLoot() added by CalamityMod
+[15:55:50.824] [Main Thread/DEBUG] [tML]: ILHook Terraria.Player::CollectTaxes() added by CalamityMod
+[15:55:50.847] [Main Thread/DEBUG] [tML]: Hook Terraria.NPC::ApplyTileCollision(bool, Vector2, int, int) added by CalamityMod
+[15:55:50.894] [Main Thread/DEBUG] [tML]: Hook Terraria.NPC::RerollVariation() added by CalamityMod
+[15:55:51.578] [Main Thread/DEBUG] [tML]: ILHook Terraria.Player::ApplyEquipFunctional(Item, bool) added by CalamityMod
+[15:55:51.731] [Main Thread/DEBUG] [tML]: ILHook Terraria.Player::Hurt(PlayerDeathReason, int, int, out HurtInfo, bool, bool, int, bool, float, float, float) added by CalamityMod
+[15:55:51.772] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::PutHallowedArmorSetBonusOnCooldown() added by CalamityMod
+[15:55:52.301] [Main Thread/DEBUG] [tML]: ILHook Terraria.Player::DashMovement() added by CalamityMod
+[15:55:52.321] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::DashMovement() added by CalamityMod
+[15:55:52.360] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::DoCommonDashHandle(out int, out bool, DashStartAction) added by CalamityMod
+[15:55:52.420] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::KeyDoubleTap(int) added by CalamityMod
+[15:55:52.463] [Main Thread/DEBUG] [tML]: ILHook Terraria.Player::GiveImmuneTimeForCollisionAttack(int) added by CalamityMod
+[15:55:52.566] [Main Thread/DEBUG] [tML]: ILHook Terraria.Player::Update_NPCCollision() added by CalamityMod
+[15:55:52.810] [Main Thread/DEBUG] [tML]: Hook Terraria.WorldGen::OpenDoor(int, int, int) added by CalamityMod
+[15:55:52.854] [Main Thread/DEBUG] [tML]: Hook Terraria.WorldGen::CloseDoor(int, int, bool) added by CalamityMod
+[15:55:52.879] [Main Thread/DEBUG] [tML]: Hook Terraria.Item::AffixName() added by CalamityMod
+[15:55:53.199] [Main Thread/DEBUG] [tML]: Hook Terraria.Projectile::NewProjectile(IEntitySource, float, float, float, float, int, int, float, int, float, float, float) added by CalamityMod
+[15:55:53.251] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::ApplyDamageToNPC(NPC, int, float, int, bool, DamageClass, bool) added by CalamityMod
+[15:55:54.077] [Main Thread/DEBUG] [tML]: ILHook Terraria.Wiring::HitWireSingle(int, int) added by CalamityMod
+[15:55:54.112] [Main Thread/DEBUG] [tML]: Hook Terraria.GameContent.UI.Elements.AWorldListItem::GetDifficulty(out string, out Color) added by CalamityMod
+[15:55:54.216] [Main Thread/DEBUG] [tML]: Hook Terraria.Item::GetShimmered() added by CalamityMod
+[15:55:54.275] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::Teleport(Vector2, int, int) added by CalamityMod
+[15:55:54.286] [Main Thread/DEBUG] [tML]: Hook Terraria.GameContent.Drawing.TileDrawing::DrawSingleTile(TileDrawInfo, bool, int, Vector2, Vector2, int, int) added by CalamityMod
+[15:55:54.308] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::PlaceThing_CannonBall() added by CalamityMod
+[15:55:54.323] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::IsItemSlotUnlockedAndUsable(int) added by CalamityMod
+[15:55:54.425] [Main Thread/DEBUG] [tML]: Hook Terraria.Projectile::AI_007_GrapplingHooks() added by CalamityMod
+[15:55:54.455] [Main Thread/DEBUG] [tML]: Hook Terraria.Collision::SolidCollision(Vector2, int, int) added by CalamityMod
+[15:55:54.488] [Main Thread/DEBUG] [tML]: Hook Terraria.Collision::SolidCollision(Vector2, int, int, bool) added by CalamityMod
+[15:55:54.583] [Main Thread/DEBUG] [tML]: Hook Terraria.Collision::TileCollision(Vector2, Vector2, int, int, bool, bool, int) added by CalamityMod
+[15:55:54.625] [Main Thread/DEBUG] [tML]: ILHook Terraria.Player::ApplyLifeAndOrMana(Item) added by CalamityMod
+[15:55:54.652] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::CheckMana(int, bool, bool) added by CalamityMod
+[15:55:54.672] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::CheckMana(Item, int, bool, bool) added by CalamityMod
+[15:55:54.729] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::GrappleMovement() added by CalamityMod
+[15:55:54.761] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::UpdatePettingAnimal() added by CalamityMod
+[15:55:55.232] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::PlayerFrame() added by CalamityMod
+[15:55:55.257] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::SlopeDownMovement() added by CalamityMod
+[15:55:55.273] [Main Thread/DEBUG] [tML]: Hook Terraria.Main::DamageVar(float, int, float) added by CalamityMod
+[15:55:55.319] [Main Thread/DEBUG] [tML]: ILHook Terraria.NPC::ScaleStats_ApplyExpertTweaks() added by CalamityMod
+[15:55:56.331] [Main Thread/DEBUG] [tML]: ILHook Terraria.Projectile::Damage() added by CalamityMod
+[15:55:56.951] [Main Thread/DEBUG] [tML]: ILHook Terraria.Projectile::Damage() added by CalamityMod
+[15:55:58.776] [Main Thread/DEBUG] [tML]: ILHook Terraria.Projectile::AI_026() added by CalamityMod
+[15:55:58.976] [Main Thread/DEBUG] [tML]: ILHook Terraria.Projectile::AI_099_2() added by CalamityMod
+[15:55:59.143] [Main Thread/DEBUG] [tML]: Hook Terraria.Projectile::AI_015_Flails() added by CalamityMod
+[15:55:59.227] [Main Thread/DEBUG] [tML]: ILHook Terraria.Projectile::AI_015_Flails() added by CalamityMod
+[15:55:59.378] [Main Thread/DEBUG] [tML]: ILHook Terraria.Projectile::AI_120_StardustGuardian() added by CalamityMod
+[15:55:59.398] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::ConsumeSolarFlare() added by CalamityMod
+[15:55:59.410] [Main Thread/DEBUG] [tML]: Hook Terraria.Projectile::IsDamageDodgable() added by CalamityMod
+[15:56:00.428] [Main Thread/DEBUG] [tML]: ILHook Terraria.Player::UpdateBuffs(int) added by CalamityMod
+[15:56:00.466] [Main Thread/DEBUG] [tML]: ILHook Terraria.Player::ApplyVanillaHurtEffectModifiers(ref HurtModifiers) added by CalamityMod
+[15:56:00.486] [Main Thread/DEBUG] [tML]: Hook Terraria.Projectile::ghostHeal(int, Vector2, Entity) added by CalamityMod
+[15:56:00.504] [Main Thread/DEBUG] [tML]: Hook Terraria.Projectile::vampireHeal(int, Vector2, Entity) added by CalamityMod
+[15:56:00.537] [Main Thread/DEBUG] [tML]: ILHook Terraria.Player::UpdateJumpHeight() added by CalamityMod
+[15:56:00.582] [Main Thread/DEBUG] [tML]: ILHook Terraria.Player::WingMovement() added by CalamityMod
+[15:56:00.685] [Main Thread/DEBUG] [tML]: ILHook Terraria.Player::UpdateLifeRegen() added by CalamityMod
+[15:56:00.731] [Main Thread/DEBUG] [tML]: ILHook Terraria.Player::UpdateManaRegen() added by CalamityMod
+[15:56:00.798] [Main Thread/DEBUG] [tML]: ILHook Terraria.Projectile::StatusPlayer(int) added by CalamityMod
+[15:56:01.094] [Main Thread/DEBUG] [tML]: ILHook Terraria.WorldGen::GrowLivingTree(int, int, bool) added by CalamityMod
+[15:56:01.150] [Main Thread/DEBUG] [tML]: Hook Terraria.WorldGen::SmashAltar(int, int) added by CalamityMod
+[15:56:01.397] [Main Thread/DEBUG] [tML]: ILHook Terraria.WorldGen::hardUpdateWorld(int, int) added by CalamityMod
+[15:56:01.487] [Main Thread/DEBUG] [tML]: ILHook Terraria.WorldGen::Chlorophyte(int, int) added by CalamityMod
+[15:56:01.570] [Main Thread/DEBUG] [tML]: ILHook Terraria.GameContent.UI.States.UIWorldCreation::SetDefaultOptions() added by CalamityMod
+[15:56:01.638] [Main Thread/DEBUG] [tML]: ILHook Terraria.GameContent.UI.States.UIWorldCreation::AddWorldSizeOptions(UIElement, float, MouseEvent, string, float) added by CalamityMod
+[15:56:02.134] [Main Thread/DEBUG] [tML]: Hook Terraria.WorldGen::MakeDungeon(int, int) added by CalamityMod
+[15:56:02.253] [Main Thread/DEBUG] [tML]: ILHook Terraria.WorldGen::DungeonHalls(int, int, ushort, int, bool) added by CalamityMod
+[15:56:02.356] [Main Thread/DEBUG] [tML]: ILHook Terraria.WorldGen::IslandHouse(int, int, int) added by CalamityMod
+[15:56:02.770] [Main Thread/DEBUG] [tML]: ILHook Terraria.WorldGen::AddBuriedChest(int, int, int, bool, int, bool, ushort) added by CalamityMod
+[15:56:02.835] [Main Thread/DEBUG] [tML]: ILHook Terraria.Player::StatusFromNPC(NPC) added by CalamityMod
+[15:56:02.857] [Main Thread/DEBUG] [tML]: Hook Terraria.NPC::HitEffect(HitInfo) added by CalamityMod
+[15:56:03.003] [Main Thread/DEBUG] [tML]: ILHook Terraria.NPC::StrikeNPC(HitInfo, bool, bool) added by CalamityMod
+[15:56:03.040] [Main Thread/DEBUG] [tML]: ILHook Terraria.Graphics.CameraModifiers.PunchCameraModifier::Update(ref CameraInfo) added by CalamityMod
+[15:56:03.230] [Main Thread/DEBUG] [tML]: ILHook Terraria.Player::ItemCheck_EmitUseVisuals(Item, Rectangle) added by CalamityMod
+[15:56:03.314] [Main Thread/DEBUG] [tML]: ILHook Terraria.Projectile::EmitEnchantmentVisualsAt(Vector2, int, int) added by CalamityMod
+[15:56:03.336] [Main Thread/DEBUG] [tML]: ILHook Terraria.GameContent.Events.Sandstorm::HasSufficientWind() added by CalamityMod
+[15:56:03.400] [Main Thread/DEBUG] [tML]: ILHook Terraria.Item::TryGetPrefixStatMultipliersForItem(int, out float, out float, out float, out float, out float, out float, out int) added by CalamityMod
+[15:56:03.442] [Main Thread/DEBUG] [tML]: Hook Terraria.NPC::SlimeRainSpawns(int) added by CalamityMod
+[15:56:03.465] [Main Thread/DEBUG] [tML]: Hook Terraria.GameContent.ShimmerTransforms::IsItemTransformLocked(int) added by CalamityMod
+[15:56:03.500] [Main Thread/DEBUG] [tML]: ILHook Terraria.Projectile::CanExplodeTile(int, int) added by CalamityMod
+[15:56:03.578] [Main Thread/DEBUG] [tML]: ILHook Terraria.Main::UpdateTime_StartNight(ref bool) added by CalamityMod
+[15:56:03.610] [Main Thread/DEBUG] [tML]: ILHook Terraria.WorldGen::AttemptFossilShattering(int, int, Tile, bool) added by CalamityMod
+[15:56:03.688] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::GetPickaxeDamage(int, int, int, int, Tile) added by CalamityMod
+[15:56:03.740] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::GetAnglerReward_MainReward(List`1, IEntitySource, int, float, int, ref GetItemSettings) added by CalamityMod
+[15:56:03.767] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::GetAnglerReward_Bait(List`1, IEntitySource, int, float, ref GetItemSettings) added by CalamityMod
+[15:56:03.793] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::GetAnglerReward_Money(List`1, IEntitySource, int, float, ref GetItemSettings) added by CalamityMod
+[15:56:04.634] [Main Thread/DEBUG] [tML]: ILHook Terraria.Player::TileInteractionsUse(int, int) added by CalamityMod
+[15:56:04.802] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::ItemCheck_CheckCanUse(Item) added by CalamityMod
+[15:56:04.859] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::ItemCheck_UseEventItems(Item) added by CalamityMod
+[15:56:05.114] [Main Thread/DEBUG] [tML]: ILHook Terraria.Main::DrawInfoAccs() added by CalamityMod
+[15:56:05.134] [Main Thread/DEBUG] [tML]: Hook Terraria.DataStructures.PlayerDrawLayers::DrawHeldProj(PlayerDrawSet, Projectile) added by CalamityMod
+[15:56:05.200] [Main Thread/DEBUG] [tML]: ILHook Terraria.Player::ItemCheck_CheckFishingBobbers(bool) added by CalamityMod
+[15:56:05.353] [Main Thread/DEBUG] [tML]: ILHook Terraria.Map.MapHelper::CreateMapTile(int, int, byte) added by CalamityMod
+[15:56:05.422] [Main Thread/DEBUG] [tML]: ILHook Terraria.NPC::StrikeNPC(HitInfo, bool, bool) added by CalamityMod
+[15:56:07.294] [Main Thread/DEBUG] [tML]: ILHook Terraria.Player::Update(int) added by CalamityMod
+[15:56:07.366] [Main Thread/DEBUG] [tML]: Hook Terraria.NPC::NewNPC(IEntitySource, int, int, int, int, float, float, float, float, int) added by CalamityMod
+[15:56:07.448] [Main Thread/DEBUG] [tML]: Hook Terraria.NPC::SpawnBoss(int, int, int, int) added by CalamityMod
+[15:56:07.537] [Main Thread/DEBUG] [tML]: Hook Terraria.Player::ItemCheck_UseBossSpawners(int, Item) added by CalamityMod
+[15:56:07.684] [Main Thread/DEBUG] [tML]: Hook Terraria.Main::UpdateAudio_DecideOnNewMusic() added by CalamityMod
+[15:56:07.780] [Main Thread/DEBUG] [tML]: Hook Terraria.Main::UpdateAudio_DecideOnTOWMusic() added by CalamityMod
+[15:56:08.255] [Main Thread/DEBUG] [tML]: Hook Terraria.Main::CheckMonoliths() added by CalamityMod
+[15:56:08.269] [Main Thread/DEBUG] [tML]: Hook Terraria.Main::DrawBackgroundBlackFill() added by CalamityMod
+[15:56:08.290] [Main Thread/DEBUG] [tML]: Hook Terraria.Main::DoDraw_Tiles_Solid() added by CalamityMod
+[15:56:08.307] [Main Thread/DEBUG] [tML]: Hook Terraria.Main::DoDraw_DrawNPCsOverTiles() added by CalamityMod
+[15:56:08.327] [Main Thread/DEBUG] [tML]: Hook Terraria.Main::DrawProjectiles() added by CalamityMod
+[15:56:08.342] [Main Thread/DEBUG] [tML]: Hook Terraria.Main::DrawPlayers_AfterProjectiles() added by CalamityMod
+[15:56:08.421] [Main Thread/DEBUG] [tML]: Hook Terraria.Main::DrawDust() added by CalamityMod
+[15:56:08.443] [Main Thread/DEBUG] [tML]: Hook Terraria.Main::DrawInfernoRings() added by CalamityMod
+[15:56:08.646] [Main Thread/INFO] [tML]: Adding Content: LastHopeAlt (The Last Hope Alt) v0.1.0
+[15:57:19.046] [.NET TP Worker/INFO] [tML]: JITModsAsync completed in 111592ms
+[15:57:19.047] [Main Thread/INFO] [tML]: Resizing...
+[15:57:20.272] [Main Thread/INFO] [tML]: Configuring Content: ModLoader (tModLoader) v2026.8.3.0
+[15:57:20.372] [Main Thread/INFO] [tML]: Configuring Content: CalamityModMusic (Calamity Mod Music) v2.1
+[15:57:20.391] [Main Thread/INFO] [tML]: Configuring Content: CalamityMod (Calamity Mod) v2.2.2
+[15:57:21.135] [Main Thread/INFO] [tML]: Configuring Content: LastHopeAlt (The Last Hope Alt) v0.1.0
+[15:57:22.408] [Main Thread/INFO] [tML]: Finalizing Content: ModLoader (tModLoader) v2026.8.3.0
+[15:57:22.414] [Main Thread/INFO] [tML]: Finalizing Content: CalamityModMusic (Calamity Mod Music) v2.1
+[15:57:22.416] [Main Thread/INFO] [tML]: Finalizing Content: CalamityMod (Calamity Mod) v2.2.2
+[15:57:22.442] [Main Thread/DEBUG] [tML]: Hook Terraria.GameContent.Bestiary.BestiaryDatabaseNPCsPopulator::AddEmptyEntries_CrittersAndEnemies_Automated() added by CalamityMod
+[15:57:22.461] [Main Thread/DEBUG] [tML]: Hook Terraria.GameContent.Bestiary.NPCWasNearPlayerTracker::ScanWorldForFinds() added by CalamityMod
+[15:57:22.476] [Main Thread/INFO] [tML]: Finalizing Content: LastHopeAlt (The Last Hope Alt) v0.1.0
+[15:57:22.528] [Main Thread/INFO] [tML]: Mods using the most RAM: CalamityMod 177.7 MB, LastHopeAlt 4.3 MB, CalamityModMusic 3.4 MB
+[15:57:22.925] [Main Thread/INFO] [tML]: RAM physical: tModLoader usage: 711.3 MB, All processes usage: 4.3 GB, Available: 3.3 GB, Total Installed: 7.6 GB
+[15:57:22.926] [Main Thread/INFO] [tML]: RAM virtual: tModLoader usage: 721.1 MB, All processes usage: 12.7 GB
+[15:57:22.927] [Main Thread/WARN] [tML]: Total system memory usage exceeds installed physical memory, tModLoader will likely experience performance issues due to frequent page file access.
+[15:57:23.748] [Main Thread/DEBUG] [tML]: GlobalItem registration stats. Count: 15, Slots per Entity: 8
+	Instanced: 8, Conditional with slot: 3, Conditional by type: 1, Applies to single type: 1
+	List Permutations: 16, Est Memory Consumption: 1120 bytes
+[15:57:24.257] [Main Thread/DEBUG] [tML]: GlobalNPC registration stats. Count: 13, Slots per Entity: 7
+	Instanced: 7, Conditional with slot: 2, Conditional by type: 0, Applies to single type: 0
+	List Permutations: 22, Est Memory Consumption: 1072 bytes
+[15:57:24.470] [Main Thread/DEBUG] [tML]: GlobalProjectile registration stats. Count: 6, Slots per Entity: 3
+	Instanced: 3, Conditional with slot: 2, Conditional by type: 1, Applies to single type: 0
+	List Permutations: 9, Est Memory Consumption: 320 bytes
+[15:57:25.763] [Main Thread/INFO] [tML]: Adding Recipes...
+[15:57:26.507] [Main Thread/INFO] [LastHopeAlt]: Accessory catalog: 644 eligible (418 vanilla / 226 Calamity)

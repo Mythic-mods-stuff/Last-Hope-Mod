@@ -1,0 +1,5 @@
+The Last Hope Alt: passive numerical stat bonuses and ordinary wing flight.
+The same 644-accessory chest-and-workbench recipe as The Last Hope.
+No accessory visual effects, transformations, dashes, companions or activated abilities.
+Hover over the relic for its bonuses; hold Shift for detailed modifiers.
+Profiles are measured at full health while stationary, with separate day/night bonuses.
